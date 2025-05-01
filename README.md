@@ -1,9 +1,6 @@
 # <h1 align="left">⚡About Me ⚡</h1>
 <br><p style="text-align: justify ;">• Working on: Blue team labs with SIEM, EDR & log analysis  <br>• Learning: Threat detection, incident response & malware analysis  <br>• Collaborating on: Cyber defense tools & SOC projects  <br>• Need help with: Real-world SOC workflows & hands-on experience  <br>• Ask me about: Blue team basics & cybersecurity learning paths    <br>• Pronouns: he/him  <br>• Fun fact: I run on coffee & packet captures</p>
 
-<br><br>
-
-
 
 <br><br>
 
@@ -25,18 +22,18 @@
 
 <br><br>
 
-## 🏆 GitHub Trophies
+#  <h1 align="left">GitHub Trophies</h1>
 <br>![](https://github-profile-trophy.vercel.app/?username=Fenix4444&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br><br>
 
-### ✍️ Random Dev Quote
+#  <h1 align="left">✍️ Random Dev Quote</h1>
 <br>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fenix4444&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  #  <h1 align="left">💰 You can help me by Donating</h1>
  <br>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coffeesec) 
 
   
